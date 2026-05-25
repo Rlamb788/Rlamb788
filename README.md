@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80" alt="Header image" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Rui Cordeiro 👋</h1>
 <p align="center"><strong>Software Engineering Student @ ISEP</strong> | Focused on Software Development, Automation, AI & Robotics</p>
 
