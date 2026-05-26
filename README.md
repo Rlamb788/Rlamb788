@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rlamb788&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
-### Software Engineering Student @ ISEP# Hi there 👋
+### Software Engineering Student @ ISEP
 
 I’m a software engineering student at ISEP passionate about innovation and solving complex problems.  
 I enjoy exploring new technologies, building practical solutions, and collaborating with others to create high-impact results.
