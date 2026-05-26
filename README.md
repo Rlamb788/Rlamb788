@@ -54,15 +54,15 @@ I value **teamwork, creativity, and problem-solving**, and I am always motivated
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruirafaelbe&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruirafaelbe&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rlamb788&theme=radical" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Cordeiro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruircordeiro)  
-[![GitHub](https://img.shields.io/badge/GitHub-Rui%20Cordeiro-black?style=for-the-badge&logo=github)](https://github.com/ruirafaelbe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Cordeiro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)  
+[![GitHub](https://img.shields.io/badge/GitHub-Rui%20Cordeiro-black?style=for-the-badge&logo=github)](https://github.com/Rlamb788)
 
 ---
 
