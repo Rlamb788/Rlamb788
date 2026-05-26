@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogoncalves&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Rlamb788&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ### Software Engineering Student @ ISEP# Hi there 👋
