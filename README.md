@@ -1,20 +1,31 @@
-# Hi there 👋
+# Hi, I'm Rui Cordeiro 👋
 
-I’m Rui Cordeiro, a software engineering student at ISEP passionate about innovation and solving complex problems.  
-I enjoy exploring new technologies, building practical solutions, and collaborating with others to create high-impact results.  
-Curious, motivated, and analytical, I aim to make a meaningful contribution in every project I tackle.
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-ISEP-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-Professional-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solver-High_Performance-green?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diogoncalves&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
+
+### Software Engineering Student @ ISEP# Hi there 👋
+
+I’m a software engineering student at ISEP passionate about innovation and solving complex problems.  
+I enjoy exploring new technologies, building practical solutions, and collaborating with others to create high-impact results.
 
 ---
 
-## About Me
-- 🎓 **Education**: Final-year Software Engineering student at the Instituto Superior de Engenharia do Porto (ISEP).
-- 🚀 **Experience**: Internship at XD Software (XD Fusion Project), designing event-driven automation workflows and improving business processes.
-- 🧠 **Mindset**: Highly motivated, creative, and collaborative; strong focus on problem-solving and continuous learning.
-- 🌐 **Languages**: Portuguese (C2), English (C1)
+## 🛠 About Me
+- 🎓 **Education:** Final-year Software Engineering student at **ISEP** (Instituto Superior de Engenharia do Porto) with a GPA of 15/20.
+- 🚀 **Experience:** Internship at **XD Software** (XD Fusion Project), designing 3 event-driven workflows for stock and inventory, improving process efficiency by 40%.
+- 🧠 **Mindset:** Highly motivated, creative, and collaborative; strong focus on problem-solving and continuous learning.
+- 🌐 **Languages:** Portuguese (C2), English (C1)
 
 ---
 
-## 🖥 Tech Stack & Skills
+## 💻 Tech Stack & Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -53,23 +64,24 @@ Curious, motivated, and analytical, I aim to make a meaningful contribution in e
 ---
 
 ## 🏆 Featured Projects
-- **XD Fusion Project (Internship)**: Implemented 3 automated workflows for stock monitoring, reducing manual auditing by 40% and increasing process efficiency.
-- **Port Management Web Application**: Developed a web app with real-time 3D visualization, improving berth allocation efficiency by 25% and reducing deployment downtime by 50%.
-- **Drone and Event Management System**: Real-time drone monitoring and SQL query optimization improved telemetry and processing efficiency by 35%.
-- **Green Space Management Application**: JavaFX app for urban resource management, reducing operational overhead by 20% and improving maintenance speed by 30%.
+- **XD Fusion Project (Internship):** Designed 3 automated workflows for stock and inventory monitoring, improving operational efficiency by 40%.
+- **Port Management Web Application:** Developed a real-time 3D visualization tool, improving berth allocation efficiency by 25% and cutting deployment downtime by 50%.
+- **Drone & Event Management System:** Real-time drone monitoring with SQL database optimization, improving telemetry accuracy by 35%.
+- **Green Space Management Application:** JavaFX application for urban resource allocation, reducing operational overhead by 20% and increasing maintenance planning speed by 30%.
 
 ---
 
 ## 📊 GitHub Stats
-
-![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruirafaelbe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruirafaelbe@gmail.com)
 
 ---
 
-*Passionate about technology and innovation, always seeking new challenges to grow professionally.*
+*"Passionate about technology and innovation, always seeking new challenges to grow professionally."*
