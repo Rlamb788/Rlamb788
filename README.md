@@ -67,7 +67,7 @@ Curious, motivated, and analytical, I aim to make a meaningful contribution in e
 ---
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ruirafaelbe)
+- [LinkedIn](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)
 - [Email](mailto:ruirafaelbe@gmail.com)
 
 ---
