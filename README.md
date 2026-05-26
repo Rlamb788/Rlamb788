@@ -53,10 +53,10 @@ Curious, motivated, and analytical, I aim to make a meaningful contribution in e
 ---
 
 ## 🏆 Featured Projects
-- **XD Fusion Project (Internship)**: Implemented 3 automated workflows for stock and inventory monitoring, reducing manual auditing by 40% and improving response efficiency.
-- **Port Management Web Application**: Developed a web application with real-time 3D visualization, improving berth allocation efficiency by 25% and reducing deployment downtime by 50%.
-- **Drone and Event Management System**: Real-time monitoring and control system for drones with SQL database optimization, improving telemetry accuracy by 35%.
-- **Green Space Management Application**: JavaFX application for urban resource management, reducing operational overhead by 20% and improving maintenance planning speed by 30%.
+- **XD Fusion Project (Internship)**: Implemented 3 automated workflows for stock monitoring, reducing manual auditing by 40% and increasing process efficiency.
+- **Port Management Web Application**: Developed a web app with real-time 3D visualization, improving berth allocation efficiency by 25% and reducing deployment downtime by 50%.
+- **Drone and Event Management System**: Real-time drone monitoring and SQL query optimization improved telemetry and processing efficiency by 35%.
+- **Green Space Management Application**: JavaFX app for urban resource management, reducing operational overhead by 20% and improving maintenance speed by 30%.
 
 ---
 
@@ -67,8 +67,8 @@ Curious, motivated, and analytical, I aim to make a meaningful contribution in e
 ---
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)
-- [Email](mailto:ruirafaelbe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruirafaelbe@gmail.com)
 
 ---
 
