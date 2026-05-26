@@ -73,9 +73,9 @@ I enjoy exploring new technologies, building practical solutions, and collaborat
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rlamb788&theme=radical" />
 </p>
-
 ---
 
 ## 📫 Connect with me
