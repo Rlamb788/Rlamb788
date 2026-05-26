@@ -1,20 +1,18 @@
 # Hi, I'm Rui Cordeiro 👋
 
+I’m a software engineering student at ISEP passionate about innovation, exploring technologies, and building high-impact solutions.  
+Collaborative, curious, and analytical, I aim to deliver practical results while learning continuously.  
+I enjoy tackling challenges that require creativity, problem-solving, and critical thinking.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineering-ISEP-blue?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-Professional-red?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solver-High_Performance-green?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Enthusiast-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solver-High_Performance-red?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rlamb788&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
-
-### Software Engineering Student @ ISEP
-
-I’m a software engineering student at ISEP passionate about innovation and solving complex problems.  
-I enjoy exploring new technologies, building practical solutions, and collaborating with others to create high-impact results.
-
 ---
 
 ## 🛠 About Me
