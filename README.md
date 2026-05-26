@@ -1,69 +1,75 @@
-<p align="center">
-  <h1 align="center">Hi, I'm Rui Cordeiro 👋</h1>
-  <p align="center">Software Engineering Student | Passionate about AI, Automation & Robotics | Exploring Innovative Tech Solutions</p>
-</p>
+# Hi there 👋
+
+I’m Rui Cordeiro, a software engineering student at ISEP passionate about innovation and solving complex problems.  
+I enjoy exploring new technologies, building practical solutions, and collaborating with others to create high-impact results.  
+Curious, motivated, and analytical, I aim to make a meaningful contribution in every project I tackle.
 
 ---
 
-## 🔹 About Me
-I am a Software Engineering student at the Instituto Superior de Engenharia do Porto (ISEP).  
-Passionate about **technology and innovation**, I enjoy exploring **new solutions** and building practical projects that have real impact.  
-I value **teamwork, creativity, and problem-solving**, and I am always motivated to contribute and learn continuously.
+## About Me
+- 🎓 **Education**: Final-year Software Engineering student at the Instituto Superior de Engenharia do Porto (ISEP).
+- 🚀 **Experience**: Internship at XD Software (XD Fusion Project), designing event-driven automation workflows and improving business processes.
+- 🧠 **Mindset**: Highly motivated, creative, and collaborative; strong focus on problem-solving and continuous learning.
+- 🌐 **Languages**: Portuguese (C2), English (C1)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🖥 Tech Stack & Skills
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+### Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-8A2BE2?style=for-the-badge)
+![Prolog](https://img.shields.io/badge/-Prolog-FF69B4?style=for-the-badge)
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![n8n](https://img.shields.io/badge/-n8n-ff5a5f?style=for-the-badge&logo=n8n&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+### Web & App Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge)
 
-**Technologies**  
-![AI](https://img.shields.io/badge/-AI-FF6F61?style=for-the-badge)  
-![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=for-the-badge)  
-![Robotics](https://img.shields.io/badge/-Robotics-2196F3?style=for-the-badge)  
-![Web Dev](https://img.shields.io/badge/-Web_Development-673AB7?style=for-the-badge)  
-![Data Analysis](https://img.shields.io/badge/-Data_Analysis-FF9800?style=for-the-badge)  
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-6e40c9?style=for-the-badge)
+![UML](https://img.shields.io/badge/-UML-FF69B4?style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-### XD Fusion Internship
-- Automated **inventory workflows** using event-driven architecture in XD Soba and n8n, improving stock monitoring and replenishment accuracy.  
-- Implemented 3 main workflows: **stock critical alerts, movement tracking, and automated replenishment suggestions**.
-
-### Academic Projects
-- Developed a **simulation system integrating AI algorithms**, increasing process efficiency by ~15%.  
-- Created a **software tool for performance monitoring**, enabling data-driven decision making across team tasks.
+## 🏆 Featured Projects
+- **XD Fusion Project (Internship)**: Implemented 3 automated workflows for stock and inventory monitoring, reducing manual auditing by 40% and improving response efficiency.
+- **Port Management Web Application**: Developed a web application with real-time 3D visualization, improving berth allocation efficiency by 25% and reducing deployment downtime by 50%.
+- **Drone and Event Management System**: Real-time monitoring and control system for drones with SQL database optimization, improving telemetry accuracy by 35%.
+- **Green Space Management Application**: JavaFX application for urban resource management, reducing operational overhead by 20% and improving maintenance planning speed by 30%.
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rlamb788&theme=radical" />
-</p>
+
+![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rlamb788&show_icons=true&theme=dark&count_private=true)
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Cordeiro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruirafaelpinheirocordeiro)  
-[![GitHub](https://img.shields.io/badge/GitHub-Rui%20Cordeiro-black?style=for-the-badge&logo=github)](https://github.com/Rlamb788)
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ruirafaelbe)
+- [Email](mailto:ruirafaelbe@gmail.com)
 
 ---
 
-*Passionate about technology and innovation, always seeking new challenges to grow professionally.* 🚀
+*Passionate about technology and innovation, always seeking new challenges to grow professionally.*
